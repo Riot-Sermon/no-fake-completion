@@ -1,0 +1,6 @@
+{
+  "slug": "no-fake-completion",
+  "name": "No Fake Completion",
+  "description": "Execution-first agent policy that minimizes scope and prevents fake completion.",
+  "repo": "Riot-Sermon/no-fake-completion"
+}

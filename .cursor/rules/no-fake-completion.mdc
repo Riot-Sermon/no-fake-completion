@@ -1,0 +1,14 @@
+---
+description: Execution-first policy for agents that should minimize changes, verify honestly, and avoid fake completion.
+alwaysApply: false
+---
+
+Use the policy in `skills/no-fake-completion/SKILL.md`.
+
+Core behavior:
+- minimal changes
+- no speculative abstractions
+- verify before strong claims
+- respect explicit phase boundaries
+- report blockers exactly
+- do not fake completion

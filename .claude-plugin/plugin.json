@@ -1,0 +1,13 @@
+{
+  "name": "no-fake-completion",
+  "displayName": "No Fake Completion",
+  "version": "0.1.0",
+  "description": "A hard execution-first policy for coding and task agents.",
+  "author": "Riot Sermon",
+  "skills": [
+    {
+      "name": "no-fake-completion",
+      "path": "skills/no-fake-completion/SKILL.md"
+    }
+  ]
+}
